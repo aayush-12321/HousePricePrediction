@@ -1,0 +1,6 @@
+base
+.env
+env/
+.env/
+# Ignore model files
+*.pkl
